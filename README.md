@@ -1,2 +1,2 @@
 # geo-chile
-Comunas de Chile junto a su Latitud y Longitud
+Todas las comunas de Chile junto a su Latitud y Longitud de su punto central aproximado.
